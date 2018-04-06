@@ -1,1 +1,3 @@
-simple-javascript-tetris
+# Javascript tetris
+
+![Screenshot](/screenshot.jpg)
